@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/locationEditText"
+            android:layout_weight="4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:hint="장소"
+            android:fontFamily="@font/fontstyle"
+            />
+
+        <Button
+            android:id="@+id/searchLocationBtn"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="검색"
+            android:fontFamily="@font/fontstyle"
+            />
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/linearLayoutTmap1"
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_height="0dp"
+        android:orientation="vertical">
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:text="확인"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/btn_searchok"
+        android:fontFamily="@font/fontstyle"
+        />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/friendRequest"
+        android:icon="@drawable/ic_baseline_add_reaction_24"
+        android:fontFamily="@font/fontstyle"
+        android:title="친구 요청"/>
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:fontFamily="@font/fontstyle"
+        android:title="로그아웃"
+        />
+</menu>
