@@ -17,9 +17,8 @@
 > <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
 ### 팀원
-> 1. 강태화 penline01@naver.com
-> 2. 윤채림 ycl623@naver.com
-> 3. 김진 hjklkj12@naver.com
+> 1. 윤채림 ycl623@naver.com
+> 2. 김진 hjklkj12@naver.com
 
 ### 링크
 > https://trello.com/b/Fhfll7Ri/stitch
